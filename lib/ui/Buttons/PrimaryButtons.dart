@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_simple_dependency_injection/injector.dart';
 
-import '../services/ColorService.dart';
-import '../services/GradientService.dart';
+import '../../services/ColorService.dart';
+import '../../services/GradientService.dart';
 
 
 //Gradient PrimaryButton from NaSlet mobile app (https://github.com/na-slet/mobile-app)

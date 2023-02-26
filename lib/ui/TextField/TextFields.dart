@@ -1,9 +1,7 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_simple_dependency_injection/injector.dart';
 
-import '../services/ColorService.dart';
-
+import '../../services/ColorService.dart';
 
 //PrimaryTextField from NaSlet (https://github.com/na-slet/mobile-app)
 typedef VoidCallbackString = String? Function(String?);
